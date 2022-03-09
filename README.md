@@ -106,8 +106,9 @@ Enter your flight number and date of journey and click on 'Get Status'
 
 # Upcoming Features
 
-* Logging Framework
+* Logging Framework along with Exception Handling Framework
 * Automated Data Ingestion Pipeline using Webscrapping
 * Track any flight by selecting in the map
+* Download the Data Validation Model
 * Download the preprocessing Model
 * Download the Feature Selection Model
